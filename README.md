@@ -1,2 +1,2 @@
-# backend_curso
-Curso de Programacion Backend en CoderHouse
+# Curso Backend en CoderHouse
+## Parte final de la carrera Full Stack MERN
